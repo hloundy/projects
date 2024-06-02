@@ -1,1 +1,1 @@
-A variety of projects and other work completed during or shortly after my Data Science graduate program. Contains data processing and ML model building in Python, database creation and querying done in PostgreSQL using pgAdmin, and data visualization work in Tableau, among other things. 
+A variety of projects and other work completed during or shortly after my Data Science graduate program. Contains data processing and ML model building in Python, database creation and querying done in PostgreSQL using pgAdmin, and data visualization work in Tableau. 
